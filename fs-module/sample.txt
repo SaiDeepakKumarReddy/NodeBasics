@@ -1,0 +1,1 @@
+I am written by fs.writeFile()   Writing to file is now easy
